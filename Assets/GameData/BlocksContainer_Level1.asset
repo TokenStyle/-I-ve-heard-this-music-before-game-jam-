@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb4fb0394736b55428adadb2436e581e, type: 3}
+  m_Name: BlocksContainer_Level1
+  m_EditorClassIdentifier: 
+  dirtSprite: {fileID: 21300000, guid: 9ffe58195fa06c74dbce9f458470a016, type: 3}
+  dirtGrassSprite: {fileID: 21300000, guid: 3315cf1977212c8438196126c54679e8, type: 3}
+  stoneSprite: {fileID: 21300000, guid: b7896e2d97c293349b7b3d28fecae630, type: 3}
+  logSprite: {fileID: 21300000, guid: 26cf3d400c0f58a47ae4f22ad97857d9, type: 3}
+  leafSprite: {fileID: 21300000, guid: 1ea1a0b380e4b234393670bf72ad4c36, type: 3}
+  coalSprite: {fileID: 21300000, guid: 836152b2b9c346e42b94e570e28448ff, type: 3}
+  ironSprite: {fileID: 21300000, guid: 24a96ec6c1194bd49bf2679936a70d3b, type: 3}
+  silverSprite: {fileID: 21300000, guid: 0355178d343e7024f896af1807ca78dd, type: 3}
